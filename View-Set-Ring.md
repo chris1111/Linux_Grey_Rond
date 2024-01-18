@@ -6,7 +6,7 @@
 <img src="Ring_256/Bluestar.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Bodhi.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Bunsenlabs.png" alt="Github Project" style="width:20%;"> 
-<img src="Ring_256/Centos.png" alt="Github Project" style="width:20%;"> 
+<img src="Ring_256/CentOS.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Clear.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Debian.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Deepin.png" alt="Github Project" style="width:20%;"> 
@@ -18,7 +18,7 @@
 <img src="Ring_256/Garuda.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Gentoo.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Kali.png" alt="Github Project" style="width:20%;"> 
-<img src="Ring_256/Kali_Alt_.png" alt="Github Project" style="width:20%;"> 
+<img src="Ring_256/Kali_Alt.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Kaos.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Knoppix.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Kubuntu.png" alt="Github Project" style="width:20%;"> 
@@ -40,13 +40,11 @@
 <img src="Ring_256/Puppy.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Raspios.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/ReactOS.png" alt="Github Project" style="width:20%;"> 
-<img src="Ring_256/Redhat.png" alt="Github Project" style="width:20%;"> 
+<img src="Ring_256/RedHat.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Solus.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Suse.png" alt="Github Project" style="width:20%;"> 
-<img src="Ring_256/Ubuntu_Mate.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Ubuntu_Studio.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Ubuntu.png" alt="Github Project" style="width:20%;"> 
-<img src="Ring_256/Void.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Windows10.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Windows.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Windows11.png" alt="Github Project" style="width:20%;"> 
