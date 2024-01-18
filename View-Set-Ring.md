@@ -51,4 +51,4 @@
 <img src="Ring_256/Xubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Ring_256/Zorin.png" alt="Github Project" style="width:20%;"> 
 
-[Back On ➦ Top](https://chris1111.github.io/Linux_Grey_Rond/)
+[Back On ➦ Top](https://github.com/chris1111/Linux_Grey_Rond/blob/Master/View-Set-Ring.md#view-set)
